@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="210" viewBox="0 0 1280 210" role="img" aria-labelledby="title">
+<title id="title">Animated crimson and ice-blue footer wave</title>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono,.mono text{font-family:Menlo,Consolas,monospace}.front{animation:wave 24s linear infinite;}.back{animation:wave 38s linear infinite;}@keyframes wave{to{transform:translateX(-1280px)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="wave"><stop stop-color="#c42d3c"/><stop offset="1" stop-color="#51202e"/></linearGradient></defs>
+<rect width="1280" height="210" fill="#050506"/>
+<g class="back" opacity=".32"><path d="M0 70 Q320 5 640 70 T1280 70 Q1600 5 1920 70 T2560 70 V210 H0Z" fill="#8bb8d5"/></g>
+<g class="front" opacity=".7"><path d="M0 85 Q320 135 640 85 T1280 85 Q1600 135 1920 85 T2560 85 V210 H0Z" fill="url(#wave)"/></g>
+<rect y="142" width="1280" height="68" fill="#050506" opacity=".82"/>
+<text x="640" y="174" text-anchor="middle" font-size="18" font-weight="700" fill="#f2f0ed" letter-spacing="3">DIVYANSH.EXE / THE WOLF CODEX</text>
+<text x="640" y="197" text-anchor="middle" class="mono" font-size="10" fill="#a7a0ab" letter-spacing="2">BUILD WITH INTENT. KEEP EVOLVING.</text>
+</svg>

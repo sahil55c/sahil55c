@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="230" viewBox="0 0 1280 230" role="img" aria-labelledby="title">
+<title id="title">The work speaks when the noise disappears</title>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono,.mono text{font-family:Menlo,Consolas,monospace}.qline{}@keyframes pulse{50%{opacity:.3}}
+@media(prefers-reduced-motion:reduce){*{}}</style>
+<defs><linearGradient id="q"><stop stop-color="#181016"/><stop offset="1" stop-color="#09090c"/></linearGradient></defs>
+<rect width="1280" height="230" rx="12" fill="url(#q)"/><rect x=".5" y=".5" width="1279" height="229" rx="12" fill="none" stroke="#44202b"/>
+<text x="640" y="65" class="mono" text-anchor="middle" font-size="12" fill="#f04455" letter-spacing="5">ENGINEERING PHILOSOPHY</text>
+<text x="640" y="126" text-anchor="middle" font-size="36" font-weight="700" fill="#f2f0ed">The work speaks when the noise disappears.</text>
+<text x="640" y="175" class="mono" text-anchor="middle" font-size="13" fill="#8bb8d5" letter-spacing="2">CLEAR THINKING. FOCUSED BUILDING. USEFUL OUTCOMES.</text>
+<rect class="qline" x="530" y="203" width="220" height="2" fill="#c42d3c"/>
+</svg>

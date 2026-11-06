@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="600" viewBox="0 0 1280 600" role="img" aria-labelledby="title">
+<title id="title">Divyansh Chauhan — The Wolf Codex; full-stack developer in Uttar Pradesh, India</title>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono,.mono text{font-family:Menlo,Consolas,monospace}.wolf{animation:float 8s ease-in-out infinite;}.eyes{animation:glow 4s ease-in-out infinite;}.pulse{animation:pulse 3s ease-in-out infinite;}.scan{animation:scan 12s linear infinite;}@keyframes float{50%{transform:translateY(-12px)}}@keyframes glow{50%{opacity:.45}}@keyframes pulse{50%{opacity:.35}}@keyframes scan{from{transform:translateY(0)}to{transform:translateY(600px)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<linearGradient id="heroBg"><stop stop-color="#050506"/><stop offset="1" stop-color="#151015"/></linearGradient>
+<radialGradient id="aura"><stop stop-color="#b3273a" stop-opacity=".2"/><stop offset="1" stop-color="#b3273a" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0V56" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+<clipPath id="heroClip"><rect width="1280" height="600" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#heroClip)">
+<rect width="1280" height="600" fill="url(#heroBg)"/>
+<rect width="1280" height="600" fill="url(#grid)"/>
+<ellipse cx="1050" cy="280" rx="360" ry="320" fill="url(#aura)"/>
+<path d="M755 0 L485 600" stroke="#ffffff" stroke-opacity=".04"/>
+<path d="M1280 0 L970 600" stroke="#c42d3c" stroke-opacity=".13"/>
+<g transform="translate(752 29) scale(.63)"><g class="wolf"><defs>
+<linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#aaaeb8"/><stop offset=".45" stop-color="#454750"/><stop offset="1" stop-color="#15161b"/></linearGradient>
+<linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#646773"/><stop offset="1" stop-color="#17181d"/></linearGradient>
+<linearGradient id="eye"><stop stop-color="#ff9c9c"/><stop offset="1" stop-color="#d21e38"/></linearGradient>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<circle cx="410" cy="390" r="300" fill="#9e1f2c" opacity=".09"/>
+<path d="M170 350 L90 55 L305 225 Z M580 350 L710 55 L485 225 Z" fill="url(#fur)" stroke="#aaaeb8" stroke-width="4"/>
+<path d="M152 285 L119 110 L265 235 Z M601 285 L676 110 L525 235 Z" fill="#211c22"/>
+<path d="M190 225 Q280 145 400 185 Q520 145 610 225 L630 430 Q590 590 400 720 Q210 590 170 430 Z" fill="url(#fur)" stroke="#a1a3ab" stroke-width="5"/>
+<path d="M190 275 L300 250 L400 375 L500 250 L610 275 L570 495 L400 665 L230 495 Z" fill="url(#face)"/>
+<path d="M210 345 L350 320 L400 390 L260 380 Z M590 345 L450 320 L400 390 L540 380 Z" fill="#14151a"/>
+<g class="eyes"><path d="M235 370 Q290 315 360 375 L300 405 Z M565 370 Q510 315 440 375 L500 405 Z" fill="url(#eye)" filter="url(#glow)"/>
+<path d="M292 355 L300 395 L310 358 Z M508 355 L500 395 L490 358 Z" fill="#fff" opacity=".85"/></g>
+<path d="M345 450 L400 422 L455 450 L400 490 Z" fill="#101014"/>
+<path d="M400 490 L400 565 Q345 600 300 545 Q355 560 400 530 Q445 560 500 545 Q455 600 400 565 Z" fill="#c4c3c7" opacity=".7"/>
+<path d="M400 490 L400 565 M345 565 Q400 615 455 565" stroke="#111" stroke-width="6" fill="none"/>
+<path d="M190 440 L120 530 L245 500 M610 440 L680 530 L555 500" stroke="#aeb1ba" stroke-width="9" fill="none" opacity=".5"/>
+<path d="M310 590 L270 675 M355 610 L340 700 M490 590 L530 675 M445 610 L460 700" stroke="#b6b8bf" stroke-width="8" fill="none" opacity=".4"/>
+<path d="M400 205 L375 330 L400 380 L425 330 Z" fill="#d1d1d6" opacity=".5"/></g></g>
+<rect x="58" y="63" width="31" height="2" fill="#f04455"/>
+<text x="106" y="68" class="mono" font-size="12" fill="#c4c4cd" letter-spacing="3">THE WOLF CODEX / VOL. 01</text>
+<text x="54" y="216" font-size="116" font-weight="900" textLength="660" lengthAdjust="spacingAndGlyphs" fill="none" stroke="#83838c" stroke-width="1.4">DIVYANSH</text>
+<text x="54" y="329" font-size="116" font-weight="900" textLength="660" lengthAdjust="spacingAndGlyphs" fill="#f2f0ed">CHAUHAN</text>
+<text x="61" y="376" class="mono" font-size="16" fill="#8bb8d5" letter-spacing="2">FULL-STACK WEB &amp; APP DEVELOPER</text>
+<text x="61" y="414" font-size="17" fill="#b2afb9">Intelligent applications. Useful automation. Real products.</text>
+<path d="M61 455 H668" stroke="#34313a"/>
+<g class="pulse"><circle cx="67" cy="492" r="4" fill="#f04455"/></g>
+<text x="82" y="497" class="mono" font-size="12" fill="#ee9ca5" letter-spacing="2">BUILD MODE</text>
+<text x="275" y="497" class="mono" font-size="11" fill="#a9a4ae">UTTAR PRADESH, INDIA</text>
+<text x="526" y="497" class="mono" font-size="11" fill="#a9a4ae">@IM-DIVXNSHH</text>
+<text x="1160" y="550" class="mono" font-size="10" fill="#94909a" text-anchor="end" letter-spacing="3">ENGINEER / BUILD / EVOLVE</text>
+<rect class="scan" x="0" y="0" width="1280" height="1" fill="#f04455" opacity=".14"/>
+<path d="M0 599H1280" stroke="#c42d3c"/>
+</g>
+</svg>

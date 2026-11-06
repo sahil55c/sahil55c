@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title">
+<title id="title">Developer terminal: Divyansh Chauhan; AI, Web3, automation and developer tools</title>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono,.mono text{font-family:Menlo,Consolas,monospace}.caret{animation:blink 1.6s steps(2,end) infinite;}@keyframes blink{50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="1000" height="300" rx="14" fill="#08080a"/><rect x=".5" y=".5" width="999" height="299" rx="14" fill="none" stroke="#303035"/>
+<path d="M0 47H1000" stroke="#29292d"/><circle cx="25" cy="25" r="5" fill="#c42d3c"/><circle cx="44" cy="25" r="5" fill="#ae874a"/><circle cx="63" cy="25" r="5" fill="#668b73"/>
+<text x="93" y="30" class="mono" font-size="13" fill="#aaa3af">divyansh@developer: ~/the-wolf-codex</text>
+<g class="mono" font-size="18">
+<text x="30" y="91" fill="#f04455">$ whoami</text><text x="30" y="124" fill="#e3dee7">Divyansh Chauhan / Full-stack web &amp; app developer</text>
+<text x="30" y="167" fill="#f04455">$ cat focus.json</text><text x="30" y="200" fill="#8bb8d5">[ "AI", "Web3", "Automation", "Developer tools" ]</text>
+<text x="30" y="247" fill="#f04455">$ next</text><text x="116" y="247" fill="#c6bccb">understand → build → ship → improve</text>
+<rect class="caret" x="561" y="231" width="9" height="21" fill="#f04455"/></g>
+</svg>
