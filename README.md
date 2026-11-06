@@ -1,641 +1,608 @@
-
-<!-- ========================================================= -->
-<!--                 DIVYANSH CHAUHAN / PROFILE                 -->
-<!--              DARK NEON DEVELOPER EDITION                    -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<!-- ANIMATED CYBERPUNK HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,35:111827,70:312e81,100:06b6d4&text=DIVYANSH%20CHAUHAN&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=BUILDING%20THE%20FUTURE%20ONE%20COMMIT%20AT%20A%20TIME&descAlignY=58&descSize=13&stroke=06b6d4&strokeWidth=1" />
-
-<!-- TYPING INTRO -->
-<a href="https://github.com/im-divxnshh">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&height=55&lines=Full-Stack+Developer+%E2%9A%A1;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+Apps+That+Actually+Do+Things+%F0%9F%9A%80;Turning+Ideas+Into+Real+Products+%F0%9F%94%A5;Code.+Create.+Automate.+Repeat." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://github.com/im-divxnshh">
-<img src="https://img.shields.io/badge/GitHub-im--divxnshh-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/im-divxnshh?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/im-divxnshh?tab=followers">
-<img src="https://img.shields.io/github/followers/im-divxnshh?style=for-the-badge&color=06b6d4&label=Followers&logo=github" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=im-divxnshh&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS" />
-
-<br/><br/>
-
-**`FULL-STACK DEVELOPER`** &nbsp;•&nbsp; **`PRODUCT BUILDER`** &nbsp;•&nbsp; **`AI EXPLORER`**
-
-*Not just writing code. Building things people can actually use.*
-
-<br/>
-
-[🌐 Portfolio](https://YOUR-PORTFOLIO.com) &nbsp;·&nbsp;
-[💼 LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) &nbsp;·&nbsp;
-[𝕏 Twitter](https://x.com/YOUR-HANDLE) &nbsp;·&nbsp;
-[📧 Contact](mailto:YOUR-EMAIL@example.com)
-
-</div>
-
----
-
-<!-- ABOUT ME -->
-
-## `01` / WHO AM I?
-
-<img align="right" width="230" src="https://github-readme-stats.vercel.app/api?username=im-divxnshh&show_icons=true&hide_border=true&bg_color=050816&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1&rank_icon=github" />
-
-Hey! I'm **Divyansh Chauhan**, also known as **Sahil Chauhan**.
-
-I'm a full-stack web and application developer from **Uttar Pradesh, India**. I enjoy turning ambitious ideas into functional products, exploring new technologies, and building software that solves actual problems.
-
-My interests go beyond traditional web development. I'm particularly interested in AI-powered applications, developer tools, automation, and the evolving Web3 ecosystem.
-
-- 🔭 Building desktop applications and AI-powered tools.
-- 🤖 Exploring AI agents, LLM integrations and intelligent automation.
-- ⚡ Developing modern web applications and backend systems.
-- 🧠 Learning about system architecture and scalable applications.
-- 🛠️ Enjoy making tools that improve developer productivity.
-- 🌌 Always experimenting with new ideas.
-
-<br clear="right"/>
-
-### Quick identity
-
-| | |
-|---|---|
-| 👨‍💻 Name | Divyansh Chauhan |
-| 🪪 Also known as | Sahil Chauhan |
-| 📍 Location | Uttar Pradesh, India |
-| 🎓 Education | BCA — Completed 2025 |
-| 📚 Currently | MCA — Expected 2027 |
-| 💻 Role | Full-Stack Web & App Developer |
-| 🧠 Interests | AI, Web3, Automation |
-| ⚡ Philosophy | Build first. Improve constantly. |
-
----
-
-<!-- TERMINAL SECTION -->
-
-## `02` / DEVELOPER TERMINAL
+<!-- THE WOLF CODEX / GitHub profile for im-divxnshh
+Upload README.md, README-STATIC.md, and assets/ together to the repository root.
+SVG illustrations adapt to reduced-motion preferences; the static README is a manual alternative.
+Additional project descriptions, technologies, and contact links were supplied in the HTML brief.
+No employment history, usage figures, certifications, or release status has been invented.
+-->
 
 <div align="center">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/wolf-codex/hero-static.svg" />
+  <img src="./assets/wolf-codex/hero.svg" width="100%" alt="Divyansh Chauhan — The Wolf Codex; geometric wolf, crimson eyes, full-stack developer" />
+</picture>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-22c55e?style=flat-square&logo=statuspage&logoColor=white" />
-<img src="https://img.shields.io/badge/MODE-BUILDING-06b6d4?style=flat-square" />
-<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-a78bfa?style=flat-square" />
+# The Wolf Codex
 
-</div>
+**Divyansh Chauhan · Sahil Chauhan · @im-divxnshh**
 
-```bash
-┌──(divyansh㉿developer)-[~/universe]
-└─$ whoami
+I engineer digital experiences, build intelligent applications,
+and turn complex ideas into products.
 
-    Name       : Divyansh Chauhan
-    Alias      : Sahil Chauhan
-    Profession : Full-Stack Developer
-    Location   : India
-    Focus      : AI + Web + Automation
+**AI · Full-stack engineering · Desktop apps · Automation · Web3**
 
-┌──(divyansh㉿developer)-[~/universe]
-└─$ cat mission.txt
+<p>
+  <a href="https://github.com/im-divxnshh"><img src="https://img.shields.io/static/v1?label=GitHub&amp;message=im-divxnshh&amp;style=for-the-badge&amp;labelColor=050506&amp;color=C42D3C&amp;logo=github&amp;logoColor=white" alt="GitHub: im-divxnshh" /></a>
+  <a href="https://www.linkedin.com/in/divaysnh-chauhan-0b9685342/"><img src="https://img.shields.io/static/v1?label=LinkedIn&amp;message=Connect&amp;style=for-the-badge&amp;labelColor=050506&amp;color=C42D3C" alt="LinkedIn: Connect" /></a>
+  <a href="mailto:divyansh20060@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&amp;message=Let%E2%80%99s+build&amp;style=for-the-badge&amp;labelColor=050506&amp;color=C42D3C&amp;logo=gmail&amp;logoColor=white" alt="Email: Let’s build" /></a>
+  <a href="https://www.instagram.com/im-divxnshh/"><img src="https://img.shields.io/static/v1?label=Instagram&amp;message=Follow&amp;style=for-the-badge&amp;labelColor=050506&amp;color=C42D3C&amp;logo=instagram&amp;logoColor=white" alt="Instagram: Follow" /></a>
+  <a href="https://discord.com/users/1079830707339268327"><img src="https://img.shields.io/static/v1?label=Discord&amp;message=Connect&amp;style=for-the-badge&amp;labelColor=050506&amp;color=C42D3C&amp;logo=discord&amp;logoColor=white" alt="Discord: Connect" /></a>
+</p>
 
-    Build useful products.
-    Automate boring workflows.
-    Explore emerging technologies.
-    Make software feel magical.
-    Never stop learning.
+**[Identity](#01--identity) · [Projects](#02--selected-work) · [Stack](#03--the-arsenal) · [GitHub](#07--github-activity) · [Contact](#16--lets-build)**
 
-┌──(divyansh㉿developer)-[~/universe]
-└─$ ./start-building.sh
-
-    [OK] Ideas loaded
-    [OK] Coffee initialized
-    [OK] Creativity enabled
-    [RUNNING] Building the next thing...
-```
-
----
-
-<!-- FEATURED PROJECTS -->
-
-## `03` / FEATURED PROJECTS
-
-<div align="center">
-
-*Ideas are cool. Shipped products are cooler.*
+[Open the static version — pause animations](./README-STATIC.md)
 
 </div>
-
-### 🔮 KAIRO — AI WORKSPACE
-
-<a href="https://github.com/im-divxnshh/Kairo">
-<img src="https://img.shields.io/badge/PROJECT-KAIRO-7c3aed?style=for-the-badge&logo=probot&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/CATEGORY-AI%20DESKTOP-06b6d4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-f59e0b?style=for-the-badge" />
-
-> A unified AI desktop workspace designed around developer workflows.
-
-Kairo brings AI-assisted development into one environment, connecting coding agents with projects, conversations and development tools.
-
-**Core features**
-
-- Claude Code integration.
-- OpenAI Codex integration.
-- Multiple AI providers and model switching.
-- Project-based conversations.
-- Git integration and project management.
-- Persistent memory and prompt management.
-- Conversation history and search.
-- Local-first application architecture.
-
-**Tech:** Electron · JavaScript · Node.js · Claude Code · OpenAI Codex · Git
-
-[Repository →](https://github.com/im-divxnshh/Kairo) · [Explore more →](https://github.com/im-divxnshh?tab=repositories)
-
----
-
-### 🧸 PO POI — DESKTOP COMPANION
-
-<a href="https://github.com/im-divxnshh/po-poi">
-<img src="https://img.shields.io/badge/PROJECT-PO%20POI-06b6d4?style=for-the-badge&logo=electron&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/CATEGORY-AUTOMATION-a78bfa?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-f59e0b?style=for-the-badge" />
-
-> A desktop companion that watches your AI coding agents and keeps you in control.
-
-Po Poi is an Electron-based assistant built to make developer workflows more interactive and convenient.
-
-**Core features**
-
-- Animated desktop character.
-- Claude Code and Codex agent monitoring.
-- Approve or reject agent actions.
-- Telegram-based remote control.
-- Planned WhatsApp control integration.
-- Local authenticated server.
-- Desktop notifications and background operation.
-- Daily developer assistant features.
-- Smart automation and personal organization.
-
-**Tech:** Electron · JavaScript · Node.js · Telegram Bot API · WebSockets
-
-[Repository →](https://github.com/im-divxnshh/po-poi) · [Explore more →](https://github.com/im-divxnshh?tab=repositories)
-
----
-
-### 🏫 KCMT SCHOOL — ALUMNI MANAGEMENT SYSTEM
-
-<a href="https://github.com/im-divxnshh/Kcmt_School">
-<img src="https://img.shields.io/badge/PROJECT-KCMT%20SCHOOL-22c55e?style=for-the-badge&logo=react&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/CATEGORY-EDTECH-06b6d4?style=for-the-badge" />
-
-> An alumni management platform for organizing institutional student records and workflows.
-
-**Core features**
-
-- Student and alumni management.
-- Department and academic session organization.
-- Bulk student creation through Excel.
-- Administrative dashboard.
-- Firebase-backed data management.
-- Desktop application packaging exploration.
-
-**Tech:** React · JavaScript · Firebase · Firestore · Electron
-
-[Repository →](https://github.com/im-divxnshh/Kcmt_School)
-
----
-
-### 🍵 VITASATTVA — E-COMMERCE EXPERIENCE
-
-<a href="https://github.com/im-divxnshh/VitaSattva">
-<img src="https://img.shields.io/badge/PROJECT-VITASATTVA-16a34a?style=for-the-badge&logo=leaflet&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/CATEGORY-E--COMMERCE-7c3aed?style=for-the-badge" />
-
-> A modern tea-focused e-commerce experience with a distinctive visual identity.
-
-**Focus areas**
-
-- Product discovery and presentation.
-- Responsive shopping experience.
-- Modern storefront design.
-- Product and category management.
-- E-commerce user experience.
-
-**Tech:** Next.js · React · TypeScript · Tailwind CSS · Firebase
-
-[Repository →](https://github.com/im-divxnshh/VitaSattva)
-
----
-
-### 🐾 DISEASE EXPERT — VETERINARY AI
-
-<a href="https://github.com/im-divxnshh/Disease-Expert">
-<img src="https://img.shields.io/badge/PROJECT-DISEASE%20EXPERT-f59e0b?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/CATEGORY-ML%20%2F%20AI-06b6d4?style=for-the-badge" />
-
-> An experimental veterinary disease detection and assistance project.
-
-**Focus areas**
-
-- Disease classification workflows.
-- Machine learning exploration.
-- Python-based backend.
-- React frontend integration.
-
-**Tech:** React · Python · Flask · Machine Learning
-
-[Repository →](https://github.com/im-divxnshh/Disease-Expert)
-
----
-
-### 🏥 HOSPITAL MANAGEMENT SYSTEM
-
-<a href="https://github.com/im-divxnshh/Hospital-Management-System">
-<img src="https://img.shields.io/badge/PROJECT-HOSPITAL%20MANAGEMENT-ec4899?style=for-the-badge&logo=health&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/CATEGORY-FULL%20STACK-7c3aed?style=for-the-badge" />
-
-> An application concept for managing hospital operations and information.
-
-**Focus areas**
-
-- Administrative workflows.
-- Patient and record management.
-- Authentication and data management.
-- Full-stack application architecture.
-
-**Tech:** Next.js · React · Firebase · TypeScript
-
-[Repository →](https://github.com/im-divxnshh/Hospital-Management-System)
-
----
-
-### 🌱 BEJUWAAN — VOLUNTEER PLATFORM
-
-<a href="https://github.com/im-divxnshh/Bejuwaan">
-<img src="https://img.shields.io/badge/PROJECT-BEJUWAAN-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/CATEGORY-SOCIAL%20TECH-06b6d4?style=for-the-badge" />
-
-> A platform concept focused on volunteer participation and community engagement.
-
-**Tech:** Next.js · React · TypeScript
-
-[Repository →](https://github.com/im-divxnshh/Bejuwaan)
-
----
-
-<div align="center">
-
-<a href="https://github.com/im-divxnshh?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-Explore_My_GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<!-- TECHNOLOGY STACK -->
-
-## `04` / TECH ARSENAL
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=dark" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,antd&theme=dark" />
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" />
-
-### Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql,redis&theme=dark" />
-
-### Desktop & Application Development
-
-<img src="https://skillicons.dev/icons?i=electron,tauri&theme=dark" />
-
-### Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,neovim,bash,npm,bun,postman&theme=dark" />
-
-### Deployment & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,ubuntu,nginx,githubactions&theme=dark" />
-
-</div>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/wolf-codex/ticker-static.svg" />
+  <img src="./assets/wolf-codex/ticker.svg" width="100%" alt="Engineer / Build / Automate / Create / Deploy / Evolve" />
+</picture>
+
+## 01 / Identity
+
+**Technology is the medium. Problem-solving is the objective.**
+
+I'm **Divyansh Chauhan**, also known as **Sahil Chauhan**, a full-stack web and
+application developer from **Uttar Pradesh, India**.
+
+My work spans modern web experiences, desktop software, backend systems,
+and intelligent developer tools. I care about clear architecture and useful products.
+
+| Developer record | Details |
+| :--- | :--- |
+| **Role** | Full-stack web & application developer |
+| **Location** | Uttar Pradesh, India |
+| **BCA** | Completed in 2025 |
+| **MCA** | Currently pursuing · expected around 2027 |
+| **Focus** | AI, Web3, automation, and desktop applications |
+| **GitHub** | [@im-divxnshh](https://github.com/im-divxnshh) |
 
 <details>
-<summary><b>⚙️ More technologies and tools I explore</b></summary>
+<summary><strong>Open the developer terminal</strong></summary>
 
-<br/>
+<br />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/wolf-codex/terminal-static.svg" />
+  <img src="./assets/wolf-codex/terminal.svg" width="100%" alt="Developer terminal: identity, interests, and the next build" />
+</picture>
 
-| Category | Technologies |
-|---|---|
-| AI / LLM | Claude, OpenAI, OpenRouter, Groq, Ollama |
-| AI Development | Prompt engineering, agent workflows, LLM APIs |
-| Desktop | Electron, IPC, electron-builder |
-| APIs | REST APIs, JSON, WebSockets |
-| Storage | Firestore, PostgreSQL, Redis, Supabase |
-| Testing | Postman, browser developer tools |
-| Design | Figma, CSS animations, SVG |
-| Automation | GitHub Actions, Node.js scripts, CLI tools |
-| Deployment | Vercel, Netlify, Cloudflare Tunnel |
-| Python | Flask, ML experimentation, TTS exploration |
+**My loop:** understand → build → validate → ship → improve.
 
 </details>
 
 ---
 
-<!-- CURRENTLY BUILDING -->
+## 02 / Selected work
 
-## `05` / CURRENTLY BUILDING
+**Built in the dark. Designed to be useful.**
 
-<div align="center">
+Products, experiments, and engineering projects across AI, education, commerce,
+and application development.
 
-| Project | Focus | Status |
-|:---|:---|:---:|
-| 🔮 Kairo | Unified AI desktop workspace | 🟡 |
-| 🧸 Po Poi | AI agent desktop companion | 🟡 |
-| ⚡ Developer tools | Productivity and automation | 🟢 |
-| 🤖 AI experiments | LLMs and intelligent workflows | 🟢 |
-| 🌐 Web3 exploration | Decentralized applications | 🔵 |
-
-</div>
-
-### What I'm exploring
-
-- AI agent orchestration.
-- Local and cloud-based LLM integrations.
-- MCP and developer tool ecosystems.
-- Desktop automation.
-- Real-time communication.
-- Scalable backend architecture.
-- Web3 and decentralized technologies.
-
----
-
-<!-- GITHUB STATS -->
-
-## `06` / GITHUB INTELLIGENCE
-
-<div align="center">
-
-### Overall GitHub Performance
-
-<a href="https://github.com/im-divxnshh">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=im-divxnshh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1&rank_icon=github" />
-</a>
-<a href="https://github.com/im-divxnshh">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-divxnshh&layout=compact&langs_count=10&hide_border=true&bg_color=050816&title_color=22d3ee&text_color=cbd5e1" />
-</a>
-
-### Contribution Streak
-
-<a href="https://git.io/streak-stats">
-<img width="70%" src="https://streak-stats.demolab.com?user=im-divxnshh&theme=dark&hide_border=true&background=050816&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C4B5FD&dates=94A3B8" />
-</a>
-
-### Contribution Activity
-
-<a href="https://github.com/im-divxnshh">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=im-divxnshh&bg_color=050816&color=22d3ee&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=DIVYANSH%27S%20CONTRIBUTION%20ACTIVITY" />
-</a>
-
-### GitHub Achievements
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=im-divxnshh&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</a>
-
-</div>
-
----
-
-<!-- SNAKE GAME -->
-
-## `07` / THE CONTRIBUTION GAME
-
-<div align="center">
-
-*My commits are the food. The snake is always hungry.* 🐍
+### 01 · Kairo
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/im-divxnshh/im-divxnshh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im-divxnshh/im-divxnshh/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/im-divxnshh/im-divxnshh/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/wolf-codex/project-kairo-static.svg" />
+  <img src="./assets/wolf-codex/project-kairo.svg" width="100%" alt="Kairo project cover" />
+</picture>
+
+**An AI desktop workspace for a developer’s everyday workflow.**
+
+Kairo combines Claude Code and Codex providers with projects, Git, memory, and prompt management.
+
+**Stack:** Electron · JavaScript · AI agents · Git
+
+**[Browse repositories ↗](https://github.com/im-divxnshh?tab=repositories)**
+
+<details>
+<summary>Inside Kairo</summary>
+
+<br />
+
+| Area | What it does |
+| :--- | :--- |
+| **Provider integrations** | Claude Code and Codex in one workspace. |
+| **Projects** | Organize work around its project context. |
+| **Git** | Keep version-control context close to the conversation. |
+| **Memory** | Manage context for ongoing development. |
+| **Prompt management** | Keep useful instructions organized and reusable. |
+
+</details>
+
+### 02 · Po Poi
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/wolf-codex/project-po-poi-static.svg" />
+  <img src="./assets/wolf-codex/project-po-poi.svg" width="100%" alt="Po Poi project cover" />
+</picture>
+
+**An Electron companion for AI coding agent approvals.**
+
+Po Poi helps approve agent actions and supports phone control through Telegram and WhatsApp.
+
+**Stack:** Electron · Node.js · Telegram · WhatsApp · Automation
+
+**[Browse repositories ↗](https://github.com/im-divxnshh?tab=repositories)**
+
+<details>
+<summary>Inside Po Poi</summary>
+
+<br />
+
+| Area | What it does |
+| :--- | :--- |
+| **Agent approvals** | A focused workflow for reviewing coding-agent actions. |
+| **Desktop companion** | An Electron helper alongside the development environment. |
+| **Phone control** | Telegram and WhatsApp integrations for action approvals. |
+
+</details>
+
+<details>
+<summary><strong>Explore four more projects — education, commerce, ML & healthcare</strong></summary>
+
+<br />
+
+### 03 · KCMT School AMS
+
+<img src="./assets/wolf-codex/project-kcmt.svg" width="100%" alt="KCMT School AMS project cover illustration" />
+
+**Academic information with a structured administrative workflow.**
+
+Alumni and student management with academic sessions, department structures, bulk Excel uploads, and administration.
+
+**Stack:** React · Firebase · Firestore · Electron
+
+**[View repository ↗](https://github.com/im-divxnshh/Kcmt_School)**
+
+<details>
+<summary>Inside KCMT School AMS</summary>
+
+<br />
+
+| Area | What it does |
+| :--- | :--- |
+| **Records** | Student and alumni information. |
+| **Academic structure** | Sessions and departments. |
+| **Bulk data** | Excel upload workflows. |
+| **Administration** | Tools for routine management tasks. |
+
+</details>
+
+### 04 · VitaSattva
+
+<img src="./assets/wolf-codex/project-vitasattva.svg" width="100%" alt="VitaSattva project cover illustration" />
+
+**A distinctive tea e-commerce experience.**
+
+Brand design, product discovery, and responsive shopping interfaces come together in a modern storefront.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · Firebase
+
+**[Browse repositories ↗](https://github.com/im-divxnshh?tab=repositories)**
+
+### 05 · Disease Expert
+
+<img src="./assets/wolf-codex/project-disease-expert.svg" width="100%" alt="Disease Expert project cover illustration" />
+
+**A veterinary disease assistance experiment.**
+
+A React interface connected to Python and Flask-based machine learning workflows.
+
+**Stack:** React · Python · Flask · Machine learning
+
+**[Browse repositories ↗](https://github.com/im-divxnshh?tab=repositories)**
+
+### 06 · Hospital Management
+
+<img src="./assets/wolf-codex/project-hospital.svg" width="100%" alt="Hospital Management project cover illustration" />
+
+**A structured healthcare application concept.**
+
+An application concept focused on patient information, administrative operations, and data management.
+
+**Stack:** Next.js · React · Firebase · TypeScript
+
+**[Browse repositories ↗](https://github.com/im-divxnshh?tab=repositories)**
+
+</details>
+
+<div align="center">
+
+**[Explore all repositories ↗](https://github.com/im-divxnshh?tab=repositories)**
+
+</div>
+
+---
+
+## 03 / The arsenal
+
+**Tools selected around the problem, the product, and the workflow.**
+
+<div align="center">
+
+### Languages & frontend
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cpython%2Cjava%2Creact%2Cnextjs%2Ctailwind&amp;perline=7&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cpython%2Cjava%2Creact%2Cnextjs%2Ctailwind&amp;perline=7&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=js%2Cts%2Cpython%2Cjava%2Creact%2Cnextjs%2Ctailwind&amp;perline=7&amp;theme=dark" alt="JavaScript, TypeScript, Python, Java, React, Next.js, Tailwind CSS" />
+</picture>
+
+**JavaScript · TypeScript · Python · Java · React · Next.js · Tailwind CSS**
+
+### Backend & data
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflask%2Cfirebase%2Csupabase%2Cpostgres%2Cmysql%2Credis&amp;perline=4&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflask%2Cfirebase%2Csupabase%2Cpostgres%2Cmysql%2Credis&amp;perline=4&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflask%2Cfirebase%2Csupabase%2Cpostgres%2Cmysql%2Credis&amp;perline=4&amp;theme=dark" alt="Node.js, Express, Flask, Firebase, Supabase, PostgreSQL, MySQL, Redis" />
+</picture>
+
+**Node.js · Express · Flask · Firebase · Supabase · PostgreSQL · MySQL · Redis**
+
+</div>
+
+<details>
+<summary><strong>Desktop, infrastructure & developer tools</strong></summary>
+
+<br />
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=electron%2Cgit%2Cgithub%2Clinux%2Cvercel%2Ccloudflare%2Cnginx%2Cdocker%2Cpostman&amp;perline=5&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=electron%2Cgit%2Cgithub%2Clinux%2Cvercel%2Ccloudflare%2Cnginx%2Cdocker%2Cpostman&amp;perline=5&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=electron%2Cgit%2Cgithub%2Clinux%2Cvercel%2Ccloudflare%2Cnginx%2Cdocker%2Cpostman&amp;perline=5&amp;theme=dark" alt="Electron, Git, GitHub, Linux, Vercel, Cloudflare, Nginx, Docker, Postman" />
+</picture>
+
+**Electron · Git · GitHub · Linux · Vercel · Cloudflare · Nginx · Docker · Postman**
+
+</div>
+
+| Context | Tools in the toolkit |
+| :--- | :--- |
+| Desktop applications | Electron and Node.js |
+| Version control | Git and GitHub |
+| Infrastructure | Linux, Docker, Nginx, Cloudflare |
+| Hosting | Vercel and Firebase |
+| Data services | Firebase, Supabase, PostgreSQL, MySQL, Redis |
+| API workflows | Postman |
+
+</details>
+
+---
+
+## 04 / What I build
+
+<details open>
+<summary><strong>Six areas across the product lifecycle</strong></summary>
+
+<br />
+
+| Discipline | What I build |
+| :--- | :--- |
+| **01 · Digital experiences** | Responsive applications, interactive interfaces, and frontend architecture. |
+| **02 · Application systems** | APIs, authentication, database integration, and structured backend logic. |
+| **03 · Intelligent tools** | LLM integrations, coding-agent workflows, prompts, and memory. |
+| **04 · Desktop software** | Electron experiences, operating-system integrations, and background workflows. |
+| **05 · Workflow engineering** | Automation, task integrations, and developer productivity tools. |
+| **06 · Deployment systems** | Hosting, CI/CD, cloud services, and application delivery. |
+
+</details>
+
+---
+
+## 05 / Current focus
+
+| Exploring | The questions that interest me |
+| :--- | :--- |
+| **AI agents & LLMs** | How can provider integrations and context make coding workflows more useful? |
+| **Developer productivity** | Which repetitive steps can tools make easier to manage? |
+| **Web3 & blockchain** | Where do decentralized systems offer practical value? |
+| **System architecture** | How can applications stay understandable as they grow? |
+| **Desktop engineering** | How can cross-platform tools feel at home in a development environment? |
+| **Open source** | What can be shared, reused, and improved with other developers? |
+
+---
+
+## 06 / The journey
+
+<details>
+<summary><strong>Education, product development & ongoing learning</strong></summary>
+
+<br />
+
+### 2025 · Bachelor of Computer Applications
+
+Completed BCA and continued turning programming fundamentals into practical projects.
+
+### Present → approximately 2027 · Master of Computer Applications
+
+Currently pursuing MCA while developing applications and exploring advanced
+software engineering and emerging technologies.
+
+### Ongoing · Product engineering
+
+Building web and desktop experiences across education, commerce, and developer tools.
+
+### Current focus · AI & automation
+
+Exploring AI desktop workspaces, coding-agent integrations, and phone-controlled
+approval workflows through Kairo and Po Poi.
+
+*2027 is an expected completion date.*
+
+</details>
+
+---
+
+## 07 / GitHub activity
+
+**Code, contributions, and ongoing development.**
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=im-divxnshh&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;border_radius=12&amp;bg_color=0B0B0D&amp;title_color=F04455&amp;icon_color=8BB8D5&amp;text_color=EEEEEE" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=im-divxnshh&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;border_radius=12&amp;bg_color=F7F4F5&amp;title_color=B51F35&amp;icon_color=3B6987&amp;text_color=342D38" />
+  <img src="https://github-readme-stats.vercel.app/api?username=im-divxnshh&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;border_radius=12&amp;bg_color=0B0B0D&amp;title_color=F04455&amp;icon_color=8BB8D5&amp;text_color=EEEEEE" width="480" alt="GitHub public statistics for im-divxnshh" />
+</picture>
+
+<br /><br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=im-divxnshh&amp;hide_border=true&amp;border_radius=12&amp;theme=dark&amp;background=0B0B0D&amp;ring=C42D3C&amp;fire=F04455&amp;currStreakNum=F2F0ED&amp;sideNums=EEEEEE&amp;currStreakLabel=8BB8D5&amp;sideLabels=CCCCCC&amp;dates=92929A" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=im-divxnshh&amp;hide_border=true&amp;border_radius=12&amp;theme=default&amp;background=F7F4F5&amp;ring=B51F35&amp;fire=B51F35&amp;currStreakNum=342D38&amp;sideNums=342D38&amp;currStreakLabel=3B6987&amp;sideLabels=514856&amp;dates=65596A" />
+  <img src="https://streak-stats.demolab.com?user=im-divxnshh&amp;hide_border=true&amp;border_radius=12&amp;theme=dark&amp;background=0B0B0D&amp;ring=C42D3C&amp;fire=F04455&amp;currStreakNum=F2F0ED&amp;sideNums=EEEEEE&amp;currStreakLabel=8BB8D5&amp;sideLabels=CCCCCC&amp;dates=92929A" width="480" alt="GitHub contribution streak for im-divxnshh" />
+</picture>
+
+**[Repositories](https://github.com/im-divxnshh?tab=repositories) · [Contributions](https://github.com/im-divxnshh?tab=overview) · [Following](https://github.com/im-divxnshh?tab=following)**
+
+</div>
+
+<details>
+<summary><strong>Open language breakdown & contribution graph</strong></summary>
+
+<br />
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=im-divxnshh&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;border_radius=12&amp;bg_color=0B0B0D&amp;title_color=F04455&amp;icon_color=8BB8D5&amp;text_color=EEEEEE" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=im-divxnshh&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;border_radius=12&amp;bg_color=F7F4F5&amp;title_color=B51F35&amp;icon_color=3B6987&amp;text_color=342D38" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-divxnshh&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;border_radius=12&amp;bg_color=0B0B0D&amp;title_color=F04455&amp;icon_color=8BB8D5&amp;text_color=EEEEEE" width="420" alt="Languages in im-divxnshh’s public repositories" />
+</picture>
+
+<br /><br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=im-divxnshh&amp;hide_border=true&amp;area=true&amp;radius=12&amp;bg_color=0B0B0D&amp;color=A8A1AE&amp;line=C42D3C&amp;point=8BB8D5&amp;area_color=C42D3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=im-divxnshh&amp;hide_border=true&amp;area=true&amp;radius=12&amp;bg_color=F7F4F5&amp;color=514856&amp;line=B51F35&amp;point=3B6987&amp;area_color=E7AAB4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=im-divxnshh&amp;hide_border=true&amp;area=true&amp;radius=12&amp;bg_color=0B0B0D&amp;color=A8A1AE&amp;line=C42D3C&amp;point=8BB8D5&amp;area_color=C42D3C" width="100%" alt="Recent public GitHub contribution graph for im-divxnshh" />
 </picture>
 
 </div>
 
----
-
-<!-- DEVELOPER JOURNEY -->
-
-## `08` / MY DEVELOPER JOURNEY
-
-```text
-2022 ────────────────────────────────────────
-       Started exploring programming
-                         │
-2023 ────────────────────┤
-       BCA journey and development fundamentals
-                         │
-2024 ────────────────────┤
-       Web development and real-world projects
-                         │
-2025 ────────────────────┤
-       Completed Bachelor of Computer Applications
-       Started building more ambitious products
-                         │
-2026 ────────────────────┤
-       MCA journey continues
-       AI applications, desktop software,
-       automation and developer tools
-                         │
-2027 ────────────────────┤
-       Expected MCA completion
-       More products. More experiments.
-                         ▼
-                 NEXT LEVEL LOADING...
-```
-
----
-
-<!-- EDUCATION -->
-
-## `09` / EDUCATION
-
-<div align="center">
-
-| Qualification | Institution | Timeline | Status |
-|---|---|---|---|
-| Bachelor of Computer Applications | [Institution Name] | 2022–2025 | Completed |
-| Master of Computer Applications | [Institution Name] | 2025–2027 | Pursuing |
-
-</div>
-
----
-
-<!-- CODING PHILOSOPHY -->
-
-## `10` / MY DEVELOPMENT PHILOSOPHY
-
-<div align="center">
-
-### `THINK → BUILD → BREAK → DEBUG → SHIP → REPEAT`
-
-<br/>
-
-<img src="https://img.shields.io/badge/BUILD-REAL%20THINGS-22c55e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LEARN-EVERY%20DAY-06b6d4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EXPLORE-WITHOUT%20LIMITS-a78bfa?style=for-the-badge" />
-
-</div>
-
-I believe great developers don't just know frameworks. They understand problems, build solutions, experiment, and continuously improve.
-
-My goal is to create software that feels intuitive, performs reliably, and makes people's lives easier.
-
----
-
-<!-- EXTRA DEVELOPER WIDGETS -->
-
-## `11` / BEYOND THE CODE
-
-<details>
-<summary><b>🎧 What I'm listening to</b></summary>
-
-<br/>
-
-<!-- Replace YOUR_SPOTIFY_USERNAME with your Spotify username.
-     Requires a working Spotify GitHub Readme integration. -->
-
-<div align="center">
-
-<a href="https://open.spotify.com/">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default&show_offline=false&background_color=050816&interchange=true&bar_color=7c3aed&bar_color_cover=true" alt="Spotify currently playing" width="80%" />
-</a>
-
-</div>
-
-</details>
-
-<details>
-<summary><b>⌨️ Coding activity / WakaTime</b></summary>
-
-<br/>
-
-<!-- Requires a public WakaTime profile and configured integration. -->
-
-<div align="center">
-
-<a href="https://wakatime.com/">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="WakaTime coding activity" width="70%" />
-</a>
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🧪 My developer interests</b></summary>
-
-- Building AI-powered products.
-- Exploring autonomous coding agents.
-- Experimenting with local AI models.
-- Designing modern desktop experiences.
-- Creating automation tools.
-- Exploring Web3 applications.
-- Improving application performance.
+*Repository language composition describes the code in public repositories.*
 
 </details>
 
 ---
 
-<!-- RANDOM DEV QUOTE -->
+## 08 / Commit trail
 
-## `12` / DAILY DEVELOPER ENERGY
+Every useful improvement starts with a change.
 
-<div align="center">
+**[Explore my contribution history ↗](https://github.com/im-divxnshh?tab=overview)**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" alt="Random developer quote" />
+<!-- SNAKE:START
+Enable after .github/workflows/snake.yml successfully publishes both SVGs.
+<details>
+<summary><strong>Watch the contribution snake</strong></summary>
 
-<br/><br/>
+<br />
 
-<img src="https://img.shields.io/badge/BUGS%20FOUND-∞-7c3aed?style=flat-square" />
-<img src="https://img.shields.io/badge/COFFEE-REQUIRED-06b6d4?style=flat-square&logo=buymeacoffee&logoColor=white" />
-<img src="https://img.shields.io/badge/IDEAS-UNLIMITED-22c55e?style=flat-square" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/wolf-codex/ticker-static.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/im-divxnshh/im-divxnshh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im-divxnshh/im-divxnshh/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/im-divxnshh/im-divxnshh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake following im-divxnshh’s GitHub contributions" />
+</picture>
 
-</div>
-
----
-
-<!-- CONNECT -->
-
-## `13` / LET'S CONNECT
-
-<div align="center">
-
-### Have an idea? Let's build something awesome.
-
-I'm always interested in interesting projects, AI experiments, development tools, and collaborations.
-
-<br/>
-
-<a href="mailto:YOUR-EMAIL@example.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/YOUR-HANDLE">
-<img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://github.com/im-divxnshh">
-<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Open to:** Interesting collaborations · AI projects · Open source · Developer tools
-
-</div>
+</details>
+SNAKE:END -->
 
 ---
 
-<!-- FOOTER -->
+## 09 / Milestones
+
+| Milestone | Where I am |
+| :--- | :--- |
+| **BCA** | Completed in 2025 |
+| **MCA** | Pursuing · expected around 2027 |
+| **AI tools** | Developing Kairo and Po Poi |
+| **Application engineering** | Building across web, desktop, and data-driven workflows |
+
+---
+
+## 10 / Engineering philosophy
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/wolf-codex/manifesto-static.svg" />
+  <img src="./assets/wolf-codex/manifesto.svg" width="100%" alt="The work speaks when the noise disappears — engineering philosophy" />
+</picture>
+
+<details>
+<summary><strong>Five principles behind the work</strong></summary>
+
+<br />
+
+### Start with a useful outcome
+
+Understand what someone needs to accomplish. Let that shape the feature set.
+
+### Keep the workflow clear
+
+Good interfaces make the next action easy to find and the current state easy to understand.
+
+### Make control visible
+
+AI and automation need clear review points, understandable actions, and recovery paths.
+
+### Write for the next reader
+
+Use focused modules, clear names, and documentation that explains important decisions.
+
+### Finish the experience
+
+Installation, onboarding, errors, and documentation belong to the product too.
+
+</details>
+
+---
+
+## 11 / From idea to release
+
+<details>
+<summary><strong>How I approach a new product</strong></summary>
+
+<br />
+
+| Stage | The question to answer |
+| :--- | :--- |
+| **Discover** | Who needs this, and what are they trying to do? |
+| **Define** | What is the smallest version that provides value? |
+| **Design** | Can someone understand the workflow without a walkthrough? |
+| **Build** | Are the interface, logic, and data organized clearly? |
+| **Validate** | Does the important behavior work when things go wrong? |
+| **Release** | Can someone install or access it and get started? |
+| **Improve** | What does actual use tell us to change next? |
+
+### Architecture questions I keep close
+
+- What belongs in the interface, and what belongs in application logic?
+- Which data needs to persist, and which state is temporary?
+- How will the product explain loading, errors, and retries?
+- Where should a person review an automated action?
+- What will make the next feature easier to add?
+
+</details>
+
+---
+
+## 12 / Learning lab
+
+<details>
+<summary><strong>Research directions & practical experiments</strong></summary>
+
+<br />
+
+| Area | What I want to understand better |
+| :--- | :--- |
+| **AI workflows** | Context, provider behavior, memory, and useful evaluations. |
+| **Desktop systems** | Process boundaries, local state, and cross-platform behavior. |
+| **Frontend quality** | Accessibility, responsive layouts, and performance. |
+| **Backend quality** | Data modeling, clear contracts, and failure handling. |
+| **Automation** | Task orchestration, approvals, and reliable recovery. |
+| **Web3** | Wallet interactions and practical decentralized application models. |
+
+**Learning approach:** build something small, inspect its behavior, and document what changed.
+
+</details>
+
+---
+
+## 13 / Build notes & demos
+
+<details>
+<summary><strong>Topics worth documenting</strong></summary>
+
+<br />
+
+These are directions for future write-ups and demos.
+
+- Designing an AI desktop workspace around projects, prompts, and memory.
+- Keeping a person involved in coding-agent approval workflows.
+- Connecting a desktop companion to phone-based controls.
+- Structuring student and alumni administration around real tasks.
+- Bringing a brand identity into a responsive commerce interface.
+- Turning a machine learning experiment into an understandable application.
+
+<!-- Add actual published posts or demo links here. -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+**[Follow the repositories ↗](https://github.com/im-divxnshh?tab=repositories)**
+
+</details>
+
+---
+
+## 14 / Collaboration
+
+<details>
+<summary><strong>Projects and conversations I’m interested in</strong></summary>
+
+<br />
+
+- Useful AI and developer tools.
+- Full-stack products with a clear problem to solve.
+- Desktop applications and automation experiences.
+- Practical open-source projects and reusable tooling.
+- Thoughtful experiments in Web3 and emerging technologies.
+
+### A good first message
+
+Tell me the problem, who the product is for, and what you want to build.
+An existing demo, repository, or short brief gives us a useful starting point.
+
+**[Start a conversation ↗](mailto:divyansh20060@gmail.com)**
+
+</details>
+
+---
+
+## 15 / Quick answers
+
+<details>
+<summary><strong>Identity, location, education & interests</strong></summary>
+
+<br />
+
+**What should I call you?**  
+Divyansh or Sahil works.
+
+**Where are you based?**  
+Uttar Pradesh, India.
+
+**What do you build?**  
+Full-stack web and application experiences, desktop tools, and automation workflows.
+
+**What are your current interests?**  
+AI, Web3, developer productivity, and application engineering.
+
+**What are you studying?**  
+I completed BCA in 2025 and am pursuing MCA, expected around 2027.
+
+**Where can I see your work?**  
+Start with the projects above and my [GitHub repositories](https://github.com/im-divxnshh?tab=repositories).
+
+</details>
+
+---
+
+## 16 / Let’s build
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,40:312e81,100:050816&height=140&section=footer&animation=fadeIn" />
+### A challenging idea. A useful product. A project worth engineering.
 
-### `console.log("Thanks for visiting my universe!");`
+Let’s make something meaningful.
 
-**Made with curiosity, caffeine & countless commits.** ☕ 
+**[Start a conversation ↗](mailto:divyansh20060@gmail.com)**
 
-<sub>© 2026 Divyansh Chauhan · Built with ❤️ and a little bit of madness.</sub>
+**[GitHub](https://github.com/im-divxnshh) · [LinkedIn](https://www.linkedin.com/in/divaysnh-chauhan-0b9685342/) · [Instagram](https://www.instagram.com/im-divxnshh/) · [Discord](https://discord.com/users/1079830707339268327)**
 
-<a href="https://github.com/im-divxnshh">
-<img src="https://img.shields.io/badge/BACK%20TO%20TOP-↑-050816?style=for-the-badge&logo=github&logoColor=22d3ee" />
-</a>
+<sub>Divyansh Chauhan · Full-stack web & app developer · India</sub>
+
+<br /><br />
+
+**[Back to the top ↑](#the-wolf-codex) · [Pause animations](./README-STATIC.md)**
 
 </div>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/wolf-codex/footer-static.svg" />
+  <img src="./assets/wolf-codex/footer.svg" width="100%" alt="Crimson and ice-blue moving footer wave — Divyansh.exe, The Wolf Codex" />
+</picture>
